@@ -107,10 +107,18 @@ générativité
 
 # Ressources
 
-## A LIRE :
+## Conférences
+
+https://www.dailymotion.com/video/xcxs29
+
+## A lire
 
 Stéphane Vial: l'être et l'écran
 Lire à l'écran B42
+
+http://formandcode.com/
+
+http://www.participatorydesign.site/
 
 Moggridge Niel, interaction design
 About Face: The Essentials of Interaction Design, Alan Cooper
