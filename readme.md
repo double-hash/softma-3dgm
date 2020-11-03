@@ -1,5 +1,6 @@
-design d'interaction
-univers réels et virtuels ? 
+# Recherches
+
+design d'interaction entre univer réels et virtuels ? 
 
 les différences et limites d'interactions entre le réel et le virtuel ?
 -------> sujet trop philo, à préciser
@@ -107,6 +108,9 @@ générativité
 
 # Ressources
 
+Designers interactifs
+Benoit Drouillat
+
 ## Conférences
 
 https://www.dailymotion.com/video/xcxs29
@@ -123,6 +127,3 @@ http://www.participatorydesign.site/
 Moggridge Niel, interaction design
 About Face: The Essentials of Interaction Design, Alan Cooper
 De la simplicité John Maeda
-
-Designers interactifs
-Benoit Drouillat
