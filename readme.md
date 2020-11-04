@@ -7,7 +7,12 @@ les différences et limites d'interactions entre le réel et le virtuel ?
 
 expérience utilisateur
 
-# Conférences
+# CORPUS
+
+Trouver des projets qui me parlent et noter des mots-clés pour chaque projet
+définir les notions
+
+## Conférences
 
 ### UX-X: Rocio Berenguer x Anne-Claire Cauhapé
 
@@ -22,9 +27,9 @@ Penser un design d'interaction éthique/responsable/anti-individualiste ?
 
 dictionnaire du design interactif
 
-## Nouvelles Temporalités / Ouvrez l’œil #4 -  Ecritures numériques et espaces publics
+### Nouvelles Temporalités / Ouvrez l’œil #4 -  Ecritures numériques et espaces publics
 
-### Nicolas Thély
+#### Nicolas Thély
 
 https://vimeo.com/61173815
 
@@ -46,25 +51,20 @@ Il devient difficile de penser/réfléchir sans voir au préalable, sans anticip
 
 ​		Pierre Damien Huyghe = être ici et là.
 Ce n'est plus seulement être ici et maintenant, mais en plus d'être ici et là.
-Du fait de nos appareils connectés à différents espaces ect...
+Du fait de nos appareils connectés à différents espaces, ect...
 
-#### Refs:
+##### Refs:
 
 - Hole in Space, New York, 1980 http://www.ecafe.com/getty/HIS/
 - Jeffrey Shaw (the legible city, golden calf...)
 
-### Stéphane Degoutin
+#### Stéphane Degoutin
 
 https://vimeo.com/60995130
 
-### Studio Lust
+#### Studio Lust
 
 https://vimeo.com/60403103
-
-# CORPUS
-
-Trouver des projets qui me parlent et noter des mots-clés pour chaque projet
-définir les notions
 
 ## PROJETS
 
