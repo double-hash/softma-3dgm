@@ -1,6 +1,3 @@
-#get RSSI from bluetooth devices
-#TODO : export as websockets and process the data with node ?
-
 import subprocess
 import shlex
 
@@ -18,7 +15,7 @@ def parse_output(output):
 
 def run_command(command):
     #opening process
-    process = subprocess.Popen(shlex.split(command), shell=True, stdout=sub$
+    process = subprocess.Popen(shlex.split(command), shell=True, stdout=subprocess.PIPE)
     #looping for getting new values
     while True:
          output = process.stdout.readline()
