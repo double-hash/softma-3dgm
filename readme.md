@@ -1,11 +1,12 @@
 # Recherches
 
 design d'interaction entre univers réels et virtuels ? 
+expérience utilisateur ?
 
 les différences et limites d'interactions entre le réel et le virtuel ?
 -------> sujet trop philo, à préciser
 
-expérience utilisateur
+design d'interaction contextualisé : crise sanitaire, dans les musées, lieux publics
 
 # CORPUS
 
@@ -20,12 +21,6 @@ regard cynique sur l'expérience utilisateur au sens large:
 => comment l'"experience utilisateur" a pu façonner la société, nos habitudes, notre regard sur le monde, nos attentes (même interpersonnelles) ?
 => comment les interactions virtuelles ont pu façonné des gestes, habitudes 
 => comment ces gestes comprennent une idéologie induite/implicite
-
-design d'interaction contextualisé : crise sanitaire, dans les musées, lieux publics
-
-Penser un design d'interaction éthique/responsable/anti-individualiste ?
-
-dictionnaire du design interactif
 
 ### Nouvelles Temporalités / Ouvrez l’œil #4 -  Ecritures numériques et espaces publics
 
@@ -133,12 +128,16 @@ générativité
 
 # Ressources
 
+dictionnaire du design numérique
 Designers interactifs
 Benoit Drouillat
 
 ## Conférences
 
 https://www.dailymotion.com/video/xcxs29
+Studio CatalogTree, néerlandais, fondé en 2001.
+Spécialisé au fil des années dans la visualisation de grandes quantités de données
+-- Court métrage pour Seed : vues de leur studio en ballon d'hélium: on ne voit qu'un toit
 
 ## A lire
 
