@@ -1,6 +1,6 @@
 # Recherches
 
-design d'interaction entre univer réels et virtuels ? 
+design d'interaction entre univers réels et virtuels ? 
 
 les différences et limites d'interactions entre le réel et le virtuel ?
 -------> sujet trop philo, à préciser
@@ -27,6 +27,31 @@ dictionnaire du design interactif
 ### Nicolas Thély
 
 https://vimeo.com/61173815
+
+Basse définition : 
+Search Terms (B42, 2012)
+
+Humanités Numériques: sciences sociales et humaines interrogées par le numérique
+
+L'impact du numérique sur l'esthétique: 
+	nouvelle subjectivité (ex: téléphone, surutilisation)
+
+Vision extrêmement réduite de la ville: quand on doit aller à un endroit on devient un point bleu qui se déplace sur un plan suivant un itinéraire
+=> Désencombrement de la réalité, possibilité d'avoir une image du lieu ou on se rend qui va nous donner un "aperçu de la réalité" avant qu'on même qu'on puisse l'éprouver
+
+Les nouveaux médias deviennent "More Médias" => changement d'échelle
+
+Superposition d'une 3D sur une réalité ?
+Il devient difficile de penser/réfléchir sans voir au préalable, sans anticiper, sans dominer un paysage, sans avoir une carte permettant de décider quel itinéraire prendre
+
+​		Pierre Damien Huyghe = être ici et là.
+Ce n'est plus seulement être ici et maintenant, mais en plus d'être ici et là.
+Du fait de nos appareils connectés à différents espaces ect...
+
+#### Refs:
+
+- Hole in Space, New York, 1980 http://www.ecafe.com/getty/HIS/
+- Jeffrey Shaw (the legible city, golden calf...)
 
 ### Stéphane Degoutin
 
